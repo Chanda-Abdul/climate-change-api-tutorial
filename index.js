@@ -168,3 +168,7 @@ app.get('/news/:newspaperId', (req, res) => {
 });
 
 app.listen(PORT, () => console.log(`server running on ${PORT}`));
+
+
+// Export the Express API
+module.exports = app;

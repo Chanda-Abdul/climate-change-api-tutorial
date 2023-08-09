@@ -17,3 +17,5 @@
 - create API in `index.js`
 
 Then [https://rapidapi.com/](https://rapidapi.com/)
+
+https://shadowsmith.com/thoughts/how-to-deploy-an-express-api-to-vercel
